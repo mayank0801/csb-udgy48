@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://mayank0801.github.io/csb-udgy48/static/css/main.e0144c9b.css",
+    "main.js": "https://mayank0801.github.io/csb-udgy48/static/js/main.af62b996.js",
+    "index.html": "https://mayank0801.github.io/csb-udgy48/index.html",
+    "main.e0144c9b.css.map": "https://mayank0801.github.io/csb-udgy48/static/css/main.e0144c9b.css.map",
+    "main.af62b996.js.map": "https://mayank0801.github.io/csb-udgy48/static/js/main.af62b996.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0144c9b.css",
+    "static/js/main.af62b996.js"
+  ]
+}
